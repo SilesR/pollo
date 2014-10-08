@@ -7,7 +7,7 @@ public class jumpScript : MonoBehaviour {
 	public int maxSpeed = 20;//velocidad maxima horizontal
 	public AudioClip sonidoVolar;
 	public AudioClip sonidohHerido;
-	public AudioClip sonidoCurado;
+	public AudioClip sonidoCurado;//TODO falta tal
 	public AudioClip sonidoChoque;
 	private bool herido = false;//para saber cuando el pollo esta herido o no.
 
